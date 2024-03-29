@@ -1,4 +1,4 @@
-# IdentityDotNetTotor
+# IdentityDotNetTotor[Adminstration System]
 Description:
 The Identity Management System is a robust web application built on Microsoft Identity framework to manage user authentication, authorization, and user profile management. It provides a secure and centralized platform for organizations to authenticate users, manage roles and permissions, and maintain user profiles.
 
